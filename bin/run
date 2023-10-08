@@ -1,0 +1,2 @@
+#!/bin/sh
+nixGL cargo run
